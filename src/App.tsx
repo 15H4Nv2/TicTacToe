@@ -81,7 +81,7 @@ export default function App() {
         </div>
 
         <button type="button" className="reset-button" onClick={resetGame}>
-          Reset Game
+          Sore Loser
         </button>
       </section>
     </main>
