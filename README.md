@@ -1,6 +1,6 @@
 # TicTacToe
 link: https://15H4Nv2.github.io/TicTacToe/
-React version of the tic-tac-toe game.
+React version of the tic-tac-toe game by Ishan.
 
 ## Run locally
 
